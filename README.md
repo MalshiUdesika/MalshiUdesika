@@ -4,7 +4,7 @@
 <a target="_blank" align="center">
   <img align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+<br> <br> <br>
 - 🔭 I'm currently working on my portfolio (HTML, CSS, JavaScript)
 - 🌱 I'm currently learning modern web development
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, C, MySQL**
