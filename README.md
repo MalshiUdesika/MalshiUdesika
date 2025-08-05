@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning modern web development
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, C, MySQL**
 - 📫 How to reach me: **malshigamage15@gmail.com**
-- 🚀 Portfolio: [Click here](https://100rabhcsmc.github.io/Me.io/)
+- 🚀 Portfolio: [Click here]
   
 <br> <br> <br> <br> <br> <br> <br>
 <hr>
