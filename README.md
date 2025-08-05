@@ -88,7 +88,7 @@
   <a href="https://github.com/MalshiUdesika" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
-  <a href="mailto:malshigamage15@gmail.com" target="_blank">
+  <a href="malshigamage15@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/gmail.png" alt="Email">
   </a>
  <a href="https://www.facebook.com/share/1GvsMbtSY2/?mibextid=wwXIfr" target="_blank">
