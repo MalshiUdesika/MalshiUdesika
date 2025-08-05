@@ -85,13 +85,13 @@
   <a href="https://www.linkedin.com/in/malshi-gamage-15492932a/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
-  <a href="[https://github.com/yourusername](https://github.com/MalshiUdesika)" target="_blank">
+  <a href="https://github.com/MalshiUdesika" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
   <a href="mailto:malshigamage15@gmail.com" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/gmail.png" alt="Email">
   </a>
- <a href="[https://www.facebook.com/share/1GvsMbtSY2/?mibextid=wwXIfr](https://www.facebook.com/share/1GvsMbtSY2/?mibextid=wwXIfr)" target="_blank">
+ <a href="https://www.facebook.com/share/1GvsMbtSY2/?mibextid=wwXIfr" target="_blank">
   <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png" alt="Facebook">
 </a>
 
