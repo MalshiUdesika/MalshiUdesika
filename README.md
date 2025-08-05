@@ -6,10 +6,7 @@
 </a>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ishaniekanayake&label=Profile%20views&color=0e75b6&style=flat" alt="ishaniekanayake" /> 
-  <a href="https://port-folio-nine-mu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Portfolio-blue?style=flat&logo=react" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ishaniekanayaka?tab=repositories" target="_blank">
+  <a href="https://github.com/MalshiUdesika?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Projects-See_All_Projects-green?style=flat&logo=github" alt="Projects" />
   </a>
 </p>
