@@ -82,7 +82,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="(https://www.linkedin.com/in/malshi-gamage-15492932a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/malshi-gamage-15492932a/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
   <a href="[https://github.com/yourusername](https://github.com/MalshiUdesika)" target="_blank">
