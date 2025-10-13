@@ -12,7 +12,6 @@
 </p>
 <br> <br> 
 
-- 🔭 I'm currently working on my portfolio (HTML, CSS, JavaScript)
 - 🌱 I'm currently learning modern web development
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, C, MySQL**
 - 📫 How to reach me: **malshigamage15@gmail.com**
