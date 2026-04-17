@@ -18,7 +18,7 @@
 - 🌱 I'm currently learning modern web development  
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, C, MySQL**  
 - 📫 Reach me at **malshigamage15@gmail.com**  
-- 🌐 Portfolio: **[Click here]([https://your-portfolio-link.com](https://malshigamageportfolio.vercel.app/))**  
+- 🌐 Portfolio: **([Click Here...](https://malshigamageportfolio.vercel.app/))**  
 
 ---
 
