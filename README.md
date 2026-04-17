@@ -7,59 +7,81 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=malshiudesika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;
   <a href="https://github.com/MalshiUdesika?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-See_All_Projects-green?style=flat&logo=github" alt="Projects" />
+    <img src="https://img.shields.io/badge/Projects-See%20All%20Projects-2ea44f?style=flat&logo=github" alt="Projects" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🌱 I'm currently learning modern web development  
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, C, MySQL**  
-- 📫 Reach me at **malshigamage15@gmail.com**  
-- 🌐 Portfolio: **([Click Here...](https://malshigamageportfolio.vercel.app/))**  
+### 🚀 About Me
+
+- 🌱 Currently learning modern web development
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, C, MySQL**
+- 📫 Reach me at **malshigamage15@gmail.com**
+- 🌐 Portfolio: [Click Here](https://malshigamageportfolio.vercel.app/)
 
 ---
 
-<h2 align="center">💻 Languages and Tools</h2>
+## 💻 Languages & Tools
 
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40"/></a>
-</p>
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalshiUdesika&theme=github_dark&hide_border=true" alt="GitHub Stats Graph"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MalshiUdesika&show_icons=true&theme=github_dark&layout=compact" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshiUdesika&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalshiUdesika&theme=github_dark&hide_border=true" alt="GitHub Stats Graph" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MalshiUdesika&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshiUdesika&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-<h3 align="center">🤝 Connect with Me</h3>
+## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/malshi-gamage-15492932a/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a>
-  <a href="https://github.com/MalshiUdesika" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/></a>
-  <a href="mailto:malshigamage15@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/gmail.png"/></a>
-  <a href="https://www.facebook.com/share/1GvsMbtSY2/?mibextid=wwXIfr" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/facebook-new.png"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/malshi-gamage-15492932a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MalshiUdesika" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:malshigamage15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/share/1GvsMbtSY2/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://malshigamageportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
